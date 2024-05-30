@@ -5,6 +5,5 @@ En general el curso va a tratar de abordar de la mano de la programación (en es
 
 Del curso y de acuerdo a lo comentado por el profesor, espero poder identificar que tipo de variable me ayudaría mejor a resolver algún problema que se me presente en la vida profesional y como abordarlo, y sobre todo saber exponerlo, ya que no solo espero memorizar, sino entender de una manera mas digerible los temas de probabilidad y estadística y saber con que herramientas apoyarme, además de aprender a usar un lenguaje mas de programación.
 
-
 ##### liga de acceso a mi github
 https://github.com/Erika-Dianney-Martinez/README/blob/main/README.md
